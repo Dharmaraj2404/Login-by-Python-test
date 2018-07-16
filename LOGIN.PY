@@ -1,11 +1,4 @@
-PASTEBINnew paste 
 
-
- Untitled
- SUEDEW     SEP 9TH, 2016  1,014   NEVER
-
-Not a member of Pastebin yet? Sign Up, it unlocks many cool features!
-rawdownloadreport 0.79 KB
 #start
  
 users = {}

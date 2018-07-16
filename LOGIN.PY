@@ -12,9 +12,9 @@ except ImportError as e:
 	exit()
 
 #Bot Data (Please insert bot token here!)
-namebot = 'DJ BOT V1'
+namebot = 'Login Test'
 verbot  = 'v1' #<== You can change this version with your real bot version
-tokenbot= '646284471:AAHvQRmvJNHvE8co_j5q-X4aFI7W18im9V8' #<-- Put your bot token here!
+tokenbot= '697365031:AAE6PpZ-u4tBq6xt3nI1hv2CGmZxdMgL3HM' #<-- Put your bot token here!
 
 #polling setup
 try:
